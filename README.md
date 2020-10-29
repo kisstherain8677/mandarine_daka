@@ -7,6 +7,6 @@
 2、下载chrome浏览器，和对应版本的webdriver，下载地址：
 http://chromedriver.storage.googleapis.com/index.html
 
-3、在daka.py中填入学号和姓名，运行该脚本即可
+3、在daka.py中填入学号和姓名，启动武汉理工大学vpn，运行该脚本即可
 
 注：完全运行一次的打卡时间大约为4小时
